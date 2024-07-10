@@ -53,7 +53,7 @@ const ProjectCardData = [
     },
     {
         imgsrc: Nykaa,
-        title : "TextUtils-Text Transformator",
+        title : "Nykaa Clone",
         text : "Created a Nykaa clone using HTML, CSS, and JavaScript, featuring product listings, and checkout processes. Demonstrates proficiency in front-end web development and building responsive e-commerce interfaces.",
         view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720626238317/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
         source : "https://github.com/deepanshu921310/Nykka-Clone"
