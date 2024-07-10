@@ -69,6 +69,9 @@ const Footer = () => {
           </div>
         </div>
       </div>
+        <div className="copyright">
+          &copy; 2024 Deepanshu Sharma. All rights reserved.
+        </div>
     </div>
   );
 };
