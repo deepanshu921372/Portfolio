@@ -29,7 +29,7 @@ const ProjectCardData = [
     {
         imgsrc: Pass,
         title : "Password Manger Web App",
-        text : "Developed a robust Password Manager web app using React.js and Node.js, ensuring secure storage and management of user credentials. Implemented advanced encryption techniques and user-friendly interfaces for enhanced security and seamless user experience.",
+        text : "Developed a robust Password Manager web app using React.js and Node.js, ensuring secure storage and management of user credentials. Implemented advanced encryption techniques for enhanced security and seamless user experience.",
         view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720366637329/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
         source : "https://github.com/deepanshu921310/PasswordManager"
     }

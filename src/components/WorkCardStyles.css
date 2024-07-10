@@ -53,4 +53,10 @@
         margin: auto;
         grid-template-columns: 1fr;
     }
+    .project-card{
+        height: 700px;
+    }
+    .project-title{
+        font-size: 1.5rem;
+    }
 }
