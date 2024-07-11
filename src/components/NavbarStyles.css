@@ -29,6 +29,20 @@
     display: none;
 }
 
+.download-cv-btn {
+    background-color: yellow;
+    color: black;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .download-cv-btn:hover {
+    background-color: darkorange;
+    transform: translateY(-2px);
+  }
+
 @media screen and (max-width: 1040px) {
     .nav-menu{
         flex-direction: column;
