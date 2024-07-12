@@ -10,18 +10,12 @@ import Restaurant from "../assets/Restaurant.png"
 
 const ProjectCardData = [
     {
-        imgsrc: Netflix,
-        title : "Netflix Clone",
-        text : "Developed a Netflix clone using HTML and CSS, showcasing a sleek, responsive design that mirrors the original platform. Demonstrated strong front-end skills and attention to detail in recreating the user interface.",
-        view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720366019980/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
-        source : "https://github.com/deepanshu921372/Netflix"
-    },
-    {
-        imgsrc: Twitter,
-        title : "Twitter Clone",
-        text : "Built a Twitter clone with HTML and CSS, achieving a polished and responsive design that replicates the original. Showcased my front-end expertise and eye for detail in recreating the user experience.",
-        view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720366245453/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
-        source : "https://github.com/deepanshu921372/Twitter"
+        imgsrc: Employee,
+        title : "Employee Management Web App",
+        text : "Developed an Employee Management Web App using Material-UI, React.js, Node.js, Postman, MongoDB, and Amazon S3. The app streamlines employee registration by capturing essential data and generating unique ID cards. This project highlights my skills in creating efficient and user-friendly web solutions.",
+        view : "https://admin.999logistics.in/",
+        source : "https://github.com/deepanshu921372/999-manager-app-id-card"
+        
     },
     {
         imgsrc: ToDo,
@@ -38,18 +32,25 @@ const ProjectCardData = [
         source : "https://github.com/deepanshu921372/PasswordManager"
     },
     {
-        imgsrc: Employee,
-        title : "Employee Management Web App",
-        text : "Developed an Employee Management Web App using Material-UI, React.js, Node.js, Postman, MongoDB, and Amazon S3. The app streamlines employee registration by capturing essential data and generating unique ID cards. This project highlights my skills in creating efficient and user-friendly web solutions.",
-        view : "https://admin.999logistics.in/",
-        source : "https://github.com/deepanshu921372/999-manager-app-id-card"
-    },
-    {
         imgsrc: TextUtils,
         title : "TextUtils-Text Transformator",
         text : "TextUtils is a React app built with React.js and Material-UI, designed for efficient text manipulation. It offers features like word counting, character counting, removing extra spaces, and converting text to uppercase and lowercase, showcasing proficiency in creating functional and user-friendly web applications.",
         view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720625521851/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
         source : "https://github.com/deepanshu921372/TextUtils-React"
+    },
+    {
+        imgsrc: Twitter,
+        title : "Twitter Clone",
+        text : "Built a Twitter clone with HTML and CSS, achieving a polished and responsive design that replicates the original. Showcased my front-end expertise and eye for detail in recreating the user experience.",
+        view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720366245453/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
+        source : "https://github.com/deepanshu921372/Twitter"
+    },
+    {
+        imgsrc: Netflix,
+        title : "Netflix Clone",
+        text : "Developed a Netflix clone using HTML and CSS, showcasing a sleek, responsive design that mirrors the original platform. Demonstrated strong front-end skills and attention to detail in recreating the user interface.",
+        view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720366019980/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
+        source : "https://github.com/deepanshu921372/Netflix"
     },
     {
         imgsrc: Nykaa,

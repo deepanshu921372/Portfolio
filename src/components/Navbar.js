@@ -32,13 +32,16 @@ const Navbar = () => {
           <Link to="/project">Projects</Link>
         </li>
         <li>
+          <Link to="/experience">Experiences</Link>
+        </li>
+        <li>
           <Link to="/about">About</Link>
         </li>
         <li>
           <Link to="/contact">Contact</Link>
         </li>
         <li>
-          <a target="_blank"  rel="noopener noreferrer" href="https://drive.google.com/file/d/1NjZHHCau-U0d5cNxLoCSBSn23SHTmeSB/view?usp=sharing" className="download-cv-btn" download>
+          <a target="_blank"  rel="noopener noreferrer" href="https://drive.google.com/file/d/1hDw0F73dPmppEETitl6KJ940AWvKXf2e/view?usp=sharing" className="download-cv-btn" download>
             Download CV
           </a>
         </li>
