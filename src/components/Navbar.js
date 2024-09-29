@@ -41,7 +41,7 @@ const Navbar = () => {
           <Link to="/contact">Contact</Link>
         </li>
         <li>
-          <a target="_blank"  rel="noopener noreferrer" href="https://drive.google.com/file/d/1Hhgu4BjUY63Gj0UE5_G0AGgSUvuJK1l-/view?usp=sharing" className="download-cv-btn" download>
+          <a target="_blank"  rel="noopener noreferrer" href="https://drive.google.com/file/d/1BQWh7j1RDJ_nI5cCEomd5jEa-Sd-6RQs/view?usp=sharing" className="download-cv-btn" download>
             Download CV
           </a>
         </li>
