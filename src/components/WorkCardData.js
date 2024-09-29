@@ -5,7 +5,9 @@ import Pass from "../assets/Pass.jpeg"
 import Employee from "../assets/Employee.png"
 import TextUtils from "../assets/TextUtils.png"
 import Nykaa from "../assets/Nykaa.png"
-import Restaurant from "../assets/Restaurant.png"
+import Nova from "../assets/nova.png"
+import Tomato from "../assets/tomato.png"
+import Golf from "../assets/golf.png"
 
 
 const ProjectCardData = [
@@ -16,6 +18,28 @@ const ProjectCardData = [
         view : "https://admin.999logistics.in/",
         source : "https://github.com/deepanshu921372/999-manager-app-id-card"
         
+    },
+    {
+        imgsrc: Tomato,
+        title : "Food Deliver by Tomato",
+        text : "Engineered a full-stack app using React.js for a responsive frontend and Node.js, Express, and MongoDB for the backend. The frontend is user-friendly, while the backend leverages Express for server functionality and MongoDB for database management.",
+        view : "https://deliverbytomato.netlify.app/",
+        source : "https://github.com/deepanshu921372/food-delivery-frontend"
+        
+    },
+    {
+        imgsrc: Golf,
+        title : "Golf-Club Management System",
+        text : "Crafted an animated golf club website using HTML, CSS, JavaScript, and GSAP (GreenSock Animation Platform). The design features captivating animations for enhanced user interaction and a responsive layout that ensures a seamless experience across all devices. This approach effectively showcases the golf club’s offerings.",
+        view : "https://dsgolf.netlify.app/",
+        source : "https://github.com/deepanshu921372/Golf"
+    },
+    {
+        imgsrc: Nova,
+        title : "Virtual Assistant Nova",
+        text : "Virtual Assistant Nova allows users to interact via voice commands, answering general knowledge queries and enabling navigation to popular websites. Built with HTML for structure, CSS for styling, and JavaScript for voice recognition, Nova enhances browsing efficiency.",
+        view : "https://virtualassistantnova.netlify.app/",
+        source : "https://github.com/deepanshu921372/VirtualAssistant"
     },
     {
         imgsrc: ToDo,
@@ -59,14 +83,7 @@ const ProjectCardData = [
         view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720626238317/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
         source : "https://github.com/deepanshu921372/Nykka-Clone"
     }
-    ,
-    {
-        imgsrc: Restaurant,
-        title : "Restaurant Website",
-        text : "Restaurant's essence with a sleek website powered by React.js and Material-UI. Combining elegant design with seamless navigation, explore our menu and services effortlessly, reflecting our commitment to exceptional dining experiences.",
-        view : "https://www.linkedin.com/in/deepanshusharma921372/details/projects/1720626914799/single-media-viewer/?profileId=ACoAAEI93RMBwYY_8nGeXy7SQkdhChIXJ1BOS5U",
-        source : "https://github.com/deepanshu921372/restaurant-website-MUI"
-    }
+    
 ];
 
 export default ProjectCardData;
